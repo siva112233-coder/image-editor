@@ -22,7 +22,7 @@ A lightweight, responsive image editor built with **HTML**, **CSS**, and **JavaS
 - [Font Awesome](https://fontawesome.com/) – for UI icons  
 - Canvas API – for image rendering & download
 
-- 🏷️ Topics
+ 🏷️ Topics
 HTML CSS JavaScript Cropper.js Canvas-API Frontend Image-Editor Font-Awesome Responsive-Design Web-App
 
 📄 License
